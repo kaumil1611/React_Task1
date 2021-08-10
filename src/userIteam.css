@@ -1,0 +1,11 @@
+#maincard{
+    margin : 30px;
+}
+#userCard{
+    background-color: #d7dbe0;
+    box-shadow: 2px 2px red, -1em 0 .2em olive;
+}
+#userDataId{
+    border-bottom: 1px solid black;
+    
+}
